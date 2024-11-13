@@ -31,3 +31,7 @@ This project provides a simple set of APIs for managing places using Google Maps
 ## General Notes
 - All API requests require the `qaclick123` API key.
 - The `place_id` parameter is essential for identifying a place in delete, get, and update operations.
+
+## TestCases Execution Output
+![Test Cases Output](https://github.com/rohitpunekar242/googleplace-api-automation-rest-assured/blob/master/output.png)
+
